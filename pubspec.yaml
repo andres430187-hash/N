@@ -1,5 +1,5 @@
 name: nesh
-description: Nesh - Cliente IPTV moderno.
+description: Nesh - Cliente IPTV moderno con estetica oscura y verde fluor.
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -22,3 +22,5 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/images/
